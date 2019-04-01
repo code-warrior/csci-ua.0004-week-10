@@ -1,5 +1,5 @@
 body {
    background-repeat: no-repeat;
-   background-attachment: fixed;
    background-position: center center; /* Default is 0 0 */
+   background-attachment: scroll;
 }
