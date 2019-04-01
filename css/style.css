@@ -23,4 +23,10 @@ p {
    margin: 20px 0;
 }
 
+q {
+   float: left;
+   width: 240px;
+   font-style: italic;
+   font-size: 28px;
+   margin: 12px 0 0 -100px;
 }
