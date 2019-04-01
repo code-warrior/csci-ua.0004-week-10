@@ -7,4 +7,6 @@ body {
       repeat-y: Only repeat along the y-axi.
    */
    background-repeat: no-repeat;
+   /* Default to background-attachment is “scroll.” */
+   background-attachment: fixed;
 }
