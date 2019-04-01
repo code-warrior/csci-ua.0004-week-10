@@ -2,11 +2,6 @@ body {
    height: 2000px;
    background-color: yellow;
    background-image: url('../img/6207414296_1b40cb194c_q.jpg');
-   /*
-      repeat-x: Only repeat along the x-axis.
-      repeat-y: Only repeat along the y-axi.
-   */
    background-repeat: no-repeat;
-   /* Default to background-attachment is “scroll.” */
    background-attachment: fixed;
 }
