@@ -4,4 +4,5 @@ body {
    background-image: url('../img/6207414296_1b40cb194c_q.jpg');
    background-repeat: no-repeat;
    background-attachment: fixed;
+   background-position: center center; /* Default is 0 0 */
 }
