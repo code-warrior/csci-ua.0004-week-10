@@ -8,17 +8,23 @@ span {
 }
 
 span:nth-child(1) {
+   color: green;
    background-color: green;
+   z-index: auto;
 }
 
 span:nth-child(2) {
+   color: pink;
    background-color: pink;
-   top: 0; /* -27px; */
+   top: -27px;
    left: 0;
+   z-index: auto;
 }
 
 span:nth-child(3) {
+   color: rebeccapurple;
    background-color: rebeccapurple;
-   top: 0; /* -57px;*/
-   left: 0; /* 65px; */
+   top: -32px;
+   left: 37px;
+   z-index: auto;
 }
