@@ -3,5 +3,11 @@ body {
    width: 800px;
 }
 
+p {
+   /* Static is the default position property. */
+   position: static;
 
+   /* Thus, offset properties are ignored. */
+   top: 100px;
+   left: 100px;
 }
